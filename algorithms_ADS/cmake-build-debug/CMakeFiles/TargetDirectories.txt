@@ -1,0 +1,3 @@
+C:/Users/madiy/CLionProjects/algorithms_ADS/cmake-build-debug/CMakeFiles/untitled11.dir
+C:/Users/madiy/CLionProjects/algorithms_ADS/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/madiy/CLionProjects/algorithms_ADS/cmake-build-debug/CMakeFiles/rebuild_cache.dir
